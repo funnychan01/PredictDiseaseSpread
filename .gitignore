@@ -1,2 +1,5 @@
-*.idea/
-Original Data/
+.idea
+Data/
+.ipynb_checkpoints
+/.idea
+/.ipynb_checkpoints
